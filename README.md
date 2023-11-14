@@ -11,7 +11,7 @@
 자가 원해서 신호를 보낼 때 실시간으로 사진을 받아 볼 수 있고, 그 외에도 초음파센서
 거리를 통해 누군가의 침입을 감지할 수도 있다.
 <br/>
-<img width="399" alt="image" src="https://github.com/minseokiim/RP-HomeNetworking/assets/55376275/49831b9e-c30f-4c48-b2ec-b4f9debca6fb">
+<img width="399" alt="image" src="https://github.com/minseokiim/RP-HomeNetworking/assets/55376275/14d09d98-122f-420c-b181-a2a1a11bb7af">
 
 
 
